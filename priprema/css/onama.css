@@ -1,0 +1,21 @@
+.left img{
+    height: 500px;
+    width: 400;
+}
+.about-content{
+    display: contents;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 30%;
+}
+
+h2{
+    text-align: center;
+}
